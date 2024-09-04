@@ -5,6 +5,8 @@ import java.util.*;
 
 public class Principale {
 
+	// nouveau commentaire
+	
 	private static final String FICHIER = "contacts.txt";
 	private static Scanner entree = new Scanner(System.in);
 	
