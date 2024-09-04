@@ -25,7 +25,7 @@ public class Principale {
 			
 			boolean fichier_cree = fichier.createNewFile();
 			
-			if (fichier_cree) System.out.println("Le fichier est créé");
+			if (fichier_cree) System.out.println("Le fichier vient d'être créé.");
 		}
 		
 		// afin de proposer une solution à chaque étape, nous créons une boucle à l'infini
